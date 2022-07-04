@@ -1,4 +1,4 @@
-<img width="779" alt="螢幕截圖 2022-07-04 下午4 08 06" src="https://user-images.githubusercontent.com/56172862/177111279-493689d9-0648-4028-9f20-ea223812abf0.png">
+<img width="900" alt="螢幕截圖 2022-07-04 下午4 08 06" src="https://user-images.githubusercontent.com/56172862/177111279-493689d9-0648-4028-9f20-ea223812abf0.png">
 
 
 This project is initiated for creating IoT based nodes for easily tracking assets or the weather at a low hardware cost and at a high data volume

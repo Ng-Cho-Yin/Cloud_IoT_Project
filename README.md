@@ -1,3 +1,4 @@
+<img width="407" alt="螢幕截圖 2021-07-01 上午10 29 56" src="https://user-images.githubusercontent.com/56172862/124055892-52237f00-da57-11eb-9ec5-5f7347e8c18a.png">
 
 This project is initiated for creating IoT based nodes for easily tracking assets or the weather at a low hardware cost and at a high data volume
 # IoT Weather station Nodes / Asset tracking

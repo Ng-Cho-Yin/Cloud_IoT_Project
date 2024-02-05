@@ -1,12 +1,13 @@
-Teamates:
-
-[Harsh,HKUST](https://github.com/Harsh-Gill)  [Justin,HKUST](https://github.com/Ng-Cho-Yin)
-
-
 <img width="900" alt="螢幕截圖 2022-07-04 下午4 08 06" src="https://user-images.githubusercontent.com/56172862/177111279-493689d9-0648-4028-9f20-ea223812abf0.png">
 
 
 This project is initiated for creating IoT based nodes for easily tracking assets or the weather at a low hardware cost and at a high data volume
+
+## Teamates:
+
+[Harsh,HKUST](https://github.com/Harsh-Gill)  [Justin,HKUST](https://github.com/Ng-Cho-Yin)
+
+
 # IoT Weather station Nodes / Asset tracking
 
 _Specific sensitive information has been removed from the code. For more information, please feel free to inquire._
